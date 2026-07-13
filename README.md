@@ -43,7 +43,7 @@ SauceDemo-Manual-Testing/
 │   └── Defect_Lifecycle.pdf
 └── README.md
 
-Deliverables---------------------
+Deliverables--------------------
 
 Test Plan
 Functional Test Scenarios
